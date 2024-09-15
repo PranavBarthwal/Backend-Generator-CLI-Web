@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* In src/index.css or App.css */
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(to bottom, black, black, #1e3a8a);
+  height: 100vh;
+  background-attachment: fixed;
+  /* 'from-black via-black to-indigo-900' */
+}
+
