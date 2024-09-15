@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from '../../components/navbar/NAVBAR.JSX'
+import Navbar from '../../components/navbar/Navbar.jsx'
 import Hero from '../../components/hero/Hero'
 import InstallationComponent from '../../components/installation/Installation'
 import AvailableCommandsComponent from '../../components/availableCommands/AvailableCommands'
