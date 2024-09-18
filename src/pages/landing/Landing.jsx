@@ -6,6 +6,7 @@ import AvailableCommandsComponent from '../../components/availableCommands/Avail
 import StatsComponent from '../../components/stats/Stats'
 import PricingComponent from '../../components/pricing/Pricing'
 import Footer from '../../components/footer/Footer'
+import Tweet from '../../components/tweet/Tweet.jsx'
 
 function Landing() {
     return (
@@ -16,6 +17,7 @@ function Landing() {
             <InstallationComponent />
             <AvailableCommandsComponent />
             <StatsComponent />
+            <Tweet />
             <PricingComponent />
             <Footer />
         </>
