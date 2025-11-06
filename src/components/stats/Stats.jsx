@@ -73,7 +73,7 @@ const StatsComponent = () => {
           <div className="p-6 rounded-lg border-2 border-indigo-600 shadow-indigo-bottom">
             <h3 className="text-2xl lg:text-3xl font-bold text-indigo-200 mb-2">
               {inView && (
-                <CountUp start={0} end={totalDownloads} duration={2} suffix="+" />
+                4000+
               )}
             </h3>
             <p className="text-gray-400">Total NPM Downloads</p>
